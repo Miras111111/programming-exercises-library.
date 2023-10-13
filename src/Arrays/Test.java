@@ -124,7 +124,7 @@ public class Test {
 //            }
 //        }
 //        System.out.println("Самое минимальное число: " + minNum);
-//        System.out.println("Предпоследнее число: " + min2);
+//        System.out.println("Предпоследнее число:  " + min2);
 //
 //
 //        int[] nums = {7, -3, 9, -11, 18, 99, 2, 11};
